@@ -2,6 +2,19 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v0.2.13 – 2026-10-04
+
+### Highlights
+- Anmeldungen sind besser gegen das Erraten von Passwörtern geschützt: Nach mehreren Fehlversuchen wird ein Konto vorübergehend gesperrt; Administratoren können die Sperre jederzeit aufheben.
+- Zusätzlicher Schutz vor automatisierten Angriffen auf die Anmeldung.
+
+### Verbesserungen
+- Die Benutzerverwaltung zeigt vorübergehend gesperrte Konten an („Vorübergehend gesperrt").
+- Verständliche Meldung auf der Anmeldeseite, wenn zu viele Fehlversuche erfolgt sind.
+
+### Sicherheit
+- Datensparsamere Protokollierung: E-Mail-Adressen erscheinen nicht mehr in technischen Protokollen.
+
 ## v0.2.12 – 2026-10-04
 
 ### Sicherheit
