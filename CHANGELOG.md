@@ -2,6 +2,12 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v0.2.14 — Nachfrage vor dem Verwerfen von Eingaben – 2026-10-04
+
+### Highlights
+- Schutz vor versehentlich verlorenen Eingaben: Wer einen Dialog mit ungespeicherten Änderungen schließt, wird gefragt, ob die Eingaben wirklich verworfen werden sollen.
+- Beim Anlegen und Bearbeiten von Schulungen gilt das auch beim Verlassen der Seite.
+
 ## v0.2.13 – 2026-10-04
 
 ### Highlights
