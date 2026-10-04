@@ -2,6 +2,19 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v0.2.15 — E-Mail-Vorlagen und Sicherheits-Mails – 2026-10-04
+
+### Highlights
+- Neue Einstellungsseite **E-Mail**: Vorlagen für automatische E-Mails lassen sich bequem im Editor gestalten, mit Vorschau und Testversand an die eigene Adresse.
+- Eigenes Erscheinungsbild je Organisation: Akzentfarbe, Logo, Fußzeile und Antwortadresse.
+- Sicherheits-Benachrichtigungen: Nutzer werden informiert, wenn ihr Passwort oder ihre E-Mail-Adresse geändert bzw. ihr Passwort von einem Administrator zurückgesetzt wurde.
+
+### Verbesserungen
+- Zuverlässiger E-Mail-Versand mit automatischen Wiederholungen und Statusübersicht für Administratoren.
+
+### Sicherheit
+- Strenge Prüfung aller E-Mail-Vorlagen und Uploads; E-Mails enthalten niemals Passwörter.
+
 ## v0.2.14 — Nachfrage vor dem Verwerfen von Eingaben – 2026-10-04
 
 ### Highlights
