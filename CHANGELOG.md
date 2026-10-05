@@ -2,6 +2,16 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.0.1 — Review-Nacharbeiten – 2026-10-05
+
+### Verbesserungen
+- Benachrichtigungs-Mails gehen nur noch an aktive Mitarbeitende.
+- Beim manuellen Versand von Benachrichtigungen werden nicht zustellbare Mails jetzt angezeigt.
+- Kleinere Verbesserungen am Vorlagen-Editor und an der Logo-Darstellung.
+
+### Fehlerbehebungen
+- Mehrere kleine Fehler beim E-Mail-Versand behoben.
+
 ## v1.0.0 — Winterdienst 1.0 – 2026-10-05
 
 ### Highlights
