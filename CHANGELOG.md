@@ -2,6 +2,12 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.0.0 — Winterdienst 1.0 – 2026-10-05
+
+### Highlights
+- Winterdienst 1.0 – die erste stabile Version.
+- Die aktuelle Version wird jetzt unten in der Navigation angezeigt; ein Klick öffnet diese Versionshinweise.
+
 ## v0.2.16 — Benachrichtigungs-Mails – 2026-10-05
 
 ### Highlights
