@@ -4,7 +4,7 @@ Winterdienst ist eine webbasierte Plattform für Unternehmen, die den Winterdien
 
 > Dieses Repository enthält ausschließlich das öffentliche Änderungsprotokoll. Der Quellcode der Anwendung ist nicht öffentlich.
 
-**Aktuelle Version: v0.2.16**
+**Aktuelle Version: v1.0.0**
 
 ## Funktionen im Überblick
 
