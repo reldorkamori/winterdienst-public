@@ -2,6 +2,19 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v0.2.16 — Benachrichtigungs-Mails – 2026-10-05
+
+### Highlights
+- Benachrichtigungs-Mails: Bestätigung von Schulungsanmeldungen, Erinnerung 24 Stunden vor einer Schulung und eine gebündelte Mail zu neu veröffentlichten Schulungen.
+- Administratoren und Manager können Mitarbeitende gezielt über Schulungen informieren.
+- Jede Person kann Benachrichtigungen in ihrem Konto oder direkt über den Link in der E-Mail abbestellen.
+
+### Verbesserungen
+- Benachrichtigungen lassen sich zentral und je Organisation ein- und ausschalten.
+
+### Fehlerbehebungen
+- Ein technischer Fehler bei bestimmten Formularanfragen wurde behoben.
+
 ## v0.2.15 — E-Mail-Vorlagen und Sicherheits-Mails – 2026-10-04
 
 ### Highlights
