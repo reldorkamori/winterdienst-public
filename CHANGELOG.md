@@ -2,6 +2,11 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.0.2 — Konto-Hinweis Benachrichtigungen – 2026-10-05
+
+### Verbesserungen
+- Klarere Hinweise zu E-Mail-Benachrichtigungen im Konto.
+
 ## v1.0.1 — Review-Nacharbeiten – 2026-10-05
 
 ### Verbesserungen
