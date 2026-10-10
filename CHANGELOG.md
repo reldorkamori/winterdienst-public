@@ -2,6 +2,25 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.1 – 2026-10-10
+
+### Highlights
+- **Mitarbeiter**: Benutzer und Mitarbeiter werden jetzt auf einer gemeinsamen Seite „Mitarbeiter“ verwaltet – inklusive Login, Rollen und Adresse. Auf dem Handy öffnet ein Tipp auf den Namen direkt die Bearbeitung.
+- **Abwesenheiten**: Urlaub, Krankheit und sonstige Abwesenheiten lassen sich jetzt erfassen und werden bei der Planung berücksichtigt.
+
+### Neue Funktionen
+- Eine Liste für alle Konten, mit Filter „mit/ohne Mitarbeiterprofil“ und nach Beschäftigungsstatus.
+- Neuer Bereich „Anmeldung & Zugang“ auf der Detailseite: Rollen, Sperren und Entsperren, Aktivieren und Deaktivieren, Passwort zurücksetzen und „Login anlegen“.
+- Fehlendes Mitarbeiterprofil direkt auf der Detailseite anlegen.
+- Stammdaten und Adresse in einem gemeinsamen Dialog bearbeiten.
+- Alte Links auf die Benutzerseite führen automatisch zur neuen Seite.
+- Mitarbeiter tragen Urlaub, Krankheit oder sonstige Abwesenheiten selbst unter „Meine Daten“ ein.
+- Administratoren und Manager sehen und pflegen alle Abwesenheiten auf der neuen Seite „Abwesenheiten“ und im Mitarbeiterprofil.
+- Bei der Planung von Schichten, Schulungen und Veranstaltungen weist die Anwendung auf abwesende Mitarbeiter hin, ohne etwas zu blockieren.
+
+### Sicherheit
+- Abwesenheiten sind nur für die betroffene Person und die Verwaltung sichtbar. Art und Notiz einer Abwesenheit werden weder per E-Mail verschickt noch protokolliert.
+
 ## v1.1.0 – 2026-10-10
 
 ### Highlights
