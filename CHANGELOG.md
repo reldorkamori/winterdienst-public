@@ -2,6 +2,32 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.0.3 – 2026-10-10
+
+### Highlights
+- Passwort vergessen? Anmeldedaten können jetzt selbst per E-Mail zurückgesetzt werden.
+- Veröffentlichte Schulungen lassen sich weiter bearbeiten.
+- Neuer Name: Schulungs- und Mitarbeiterverwaltung.
+
+### Neue Funktionen
+- „Passwort vergessen?“ auf der Anmeldeseite: Ein Link zum Zurücksetzen des Passworts wird per E-Mail verschickt. Ist der E-Mail-Versand nicht eingerichtet, erscheint ein Hinweis, sich an den Administrator zu wenden.
+- Schulungsvorlagen: frei wählbares Wiederholungsintervall in Monaten oder Jahren („Benutzerdefiniert“).
+- Mitarbeiterdaten: Anrede, Telefon privat, Telefon dienstlich und Geburtsdatum – auch in „Meine Daten“ und im Mitarbeiterimport.
+
+### Verbesserungen
+- Veröffentlichte Schulungen können bearbeitet werden (z. B. Inhalte, Trainer, Ort, Teilnehmerzahl). Datum und Uhrzeit bleiben nach der Veröffentlichung fest.
+- Die Anwendung heißt in der Oberfläche jetzt „Schulungs- und Mitarbeiterverwaltung“.
+- Lange Dialoge scrollen innerhalb des Fensters; Kopf- und Fußbereich bleiben sichtbar.
+- Führerscheine: Die Kartengültigkeit ist jetzt ein Pflichtfeld. Bestehende Karten ohne Gültigkeitsdatum werden markiert.
+- Berichte: Wiederholungsintervalle werden in Übersicht und PDF auf Deutsch angezeigt.
+
+### Sicherheit
+- Links zum Zurücksetzen des Passworts sind nur einmal und nur eine Stunde gültig; nach dem Zurücksetzen werden alle Sitzungen abgemeldet und eine Bestätigung verschickt.
+- Anfragen zum Zurücksetzen sind begrenzt, und die Antwort verrät nicht, ob ein Konto existiert.
+
+### Fehlerbehebungen
+- Die Auswahl „Einträge pro Seite“ in Listen funktioniert wieder.
+
 ## v1.0.2 — Konto-Hinweis Benachrichtigungen – 2026-10-05
 
 ### Verbesserungen
