@@ -2,6 +2,25 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.2 – 2026-10-10
+
+### Highlights
+- **Nachweise selbst einreichen**: Mitarbeiter reichen Führerschein, Führerscheinklassen und sonstige Dokumente jetzt selbst ein. Die Verwaltung prüft und gibt sie frei.
+- **Suche**: Neu ist die Suche im Kopfbereich. Sie findet Mitarbeiter, Schulungen, Veranstaltungen, Vorlagen, Schichten und Qualifikationen, auf Wunsch eingeschränkt auf einen Bereich. Es erscheint nur, was Sie ohnehin sehen dürfen.
+
+### Neue Funktionen
+- Unter „Meine Nachweise“ Führerschein, Klassen und sonstige Dokumente (z. B. Bescheinigungen) selbst hinzufügen, inklusive Fotos.
+- Neue Seite „Freigaben“ für Administratoren und Manager: offene Einreichungen einzeln oder gesammelt freigeben.
+- Einreichungen mit optionalem Grund ablehnen. Der Mitarbeiter sieht den Grund und kann neu einreichen.
+- Neuer Reiter „Sonstige Dokumente“ im Mitarbeiterprofil.
+- Ergebnisseite mit allen Treffern je Bereich; auf dem Smartphone über das Lupen-Symbol.
+- Treffer in Qualifikationen und Vorlagen springen direkt zur passenden Zeile der Liste.
+- Die Suche findet Namen auch mit unterschiedlicher Schreibweise von Umlauten (z. B. „Müller“ und „Mueller“).
+
+### Verbesserungen
+- Noch nicht freigegebene oder abgelehnte Nachweise zählen nie als gültig.
+- Alle bereits vorhandenen Führerscheine und Klassen gelten als freigegeben; für Mitarbeiter ändert sich daran nichts.
+
 ## v1.1.1 – 2026-10-10
 
 ### Highlights
