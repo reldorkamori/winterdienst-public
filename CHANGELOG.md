@@ -2,6 +2,27 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.0 – 2026-10-10
+
+### Highlights
+- Neu: Veranstaltungen – einmalige Termine wie Saisonauftakt, Einweisung oder Sommerfest, zu denen sich Mitarbeiter anmelden können.
+- Ein gemeinsamer Kalender zeigt Schulungen und Veranstaltungen zusammen.
+
+### Neue Funktionen
+- Veranstaltungen anlegen, bearbeiten, veröffentlichen und löschen: Name, Beschreibung, Datum mit Start- und Endzeit, Ort, optionale Teilnehmerbegrenzung und optional eine verantwortliche Person.
+- Veranstaltungen absagen: optional mit Begründung. Abgesagte Veranstaltungen bleiben mit dem Hinweis „Abgesagt“ sichtbar.
+- Anmelden und Abmelden: Mitarbeiter melden sich im Kalender oder auf der Veranstaltungsseite an. Bis zum Beginn können sie sich wieder abmelden und später erneut anmelden. Anmeldungen werden wie bei Schulungen bestätigt oder abgelehnt.
+- Gemeinsamer Kalender unter „Kalender“ mit Filter Alle / Schulungen / Veranstaltungen. Die Auswahl wird gemerkt.
+- Neue Seite „Veranstaltungen“ für Administratoren, Manager und Trainer mit Liste, Teilnehmern und Anmeldelinks.
+- Öffentliche Anmeldelinks auch für Veranstaltungen, z. B. für Gäste ohne Konto.
+- Neue E-Mails: Anmeldebestätigung, Erinnerung einen Tag vorher und Absage einer Veranstaltung. Alle drei lassen sich wie die übrigen Benachrichtigungen ein- und ausschalten.
+
+### Verbesserungen
+- Startseite: „Meine Termine“ und „Offene Termine“ zeigen Schulungen und Veranstaltungen gemeinsam, jeweils gekennzeichnet.
+- Sammel- und manuelle Benachrichtigungen enthalten auch Veranstaltungen; diese sind in der Liste als „(Veranstaltung)“ markiert.
+- Alte Links auf den Schulungskalender führen automatisch zum neuen Kalender.
+- Neue Hilfeseite zu Veranstaltungen; die Hilfe zum Kalender ist aktualisiert.
+
 ## v1.0.3 – 2026-10-10
 
 ### Highlights
