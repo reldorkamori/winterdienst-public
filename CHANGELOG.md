@@ -2,6 +2,18 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.3 – 2026-10-11
+
+### Highlights
+- **Daten prüfen bei der ersten Anmeldung**: Neue Mitarbeiter prüfen ihre hinterlegten Daten einmalig, direkt nachdem sie bei der ersten Anmeldung ihr eigenes Passwort festgelegt haben.
+
+### Neue Funktionen
+- Neue Mitarbeiter prüfen bei ihrer ersten Anmeldung – direkt nach dem Festlegen des eigenen Passworts – einmalig ihre hinterlegten Daten (Name, Telefonnummern, Geburtsdatum, E-Mail-Adresse, Adresse) und bestätigen sie oder korrigieren sie direkt. Erst danach steht die Anwendung zur Verfügung.
+- Die Prüfung erfolgt nur ein einziges Mal; ein späteres Zurücksetzen des Passworts löst sie nicht erneut aus.
+
+### Sicherheit & Datenschutz
+- Abwesenheiten werden 24 Monate nach ihrem letzten Tag automatisch gelöscht. Die Löschung läuft jede Nacht, zum ersten Mal in der ersten Nacht nach dem Update; dabei werden auch alle bereits älteren Einträge entfernt. Gelöschte Abwesenheiten lassen sich nicht wiederherstellen.
+
 ## v1.1.2 – 2026-10-10
 
 ### Highlights
