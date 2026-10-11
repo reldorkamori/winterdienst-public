@@ -2,6 +2,17 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.8 – 2026-10-11
+
+### Highlights
+- **Keine Doppelanmeldungen mehr bei Schulungen und Veranstaltungen**
+### Fehlerbehebungen
+- Pro Schulung ist nur noch eine Anmeldung für einen anstehenden Termin möglich. Weitere Termine derselben Schulung zeigen „Anmelden“ ausgegraut mit dem Hinweis, für welchen Termin du bereits angemeldet bist. Nach dem Beginn deines Termins kannst du dich für einen späteren Termin anmelden.
+- Schulungen und Veranstaltungen, die sich zeitlich überschneiden, können nicht mehr gleichzeitig gebucht werden. Direkt aufeinanderfolgende Termine (z. B. 07–14 Uhr und 14–21 Uhr) bleiben möglich.
+- Termine ohne Uhrzeit werden nicht auf Überschneidung geprüft: Überschneidungen werden nur geprüft, wenn bei beiden Terminen Start- und Endzeit eingetragen sind.
+- Über den allgemeinen Anmeldelink entsteht bei erneutem Absenden mit derselben Mobilnummer keine zweite Anmeldung mehr.
+- Abgelehnte Anmeldungen werden im Dashboard als „Abgelehnt“ angezeigt.
+
 ## v1.1.7 – 2026-10-11
 
 ### Verbesserungen
