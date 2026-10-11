@@ -2,6 +2,15 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.4 – 2026-10-11
+
+### Highlights
+- **Von Schulungen abmelden**: Mitarbeiter können ihre Anmeldung zu einer Schulung bis 24 Stunden vor Beginn selbst zurückziehen.
+
+### Neue Funktionen
+- Auf der Detailseite einer Schulung und im Kalender gibt es für die eigene angefragte oder genehmigte Anmeldung die Schaltfläche „Abmelden“ – bis 24 Stunden vor Beginn der Schulung. Danach ist die Schaltfläche gesperrt, und ein Hinweis erklärt die Frist.
+- Der frei gewordene Platz steht sofort wieder zur Verfügung. Nach einer Abmeldung erscheint die Schulung wieder unter „Offene Termine“ und kann erneut angemeldet werden.
+
 ## v1.1.3 – 2026-10-11
 
 ### Highlights
