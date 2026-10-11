@@ -2,6 +2,24 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.7 – 2026-10-11
+
+### Verbesserungen
+- Die Schulungsübersicht öffnet für Administratoren und Manager jetzt mit dem Filter **„Alle“** statt „Veröffentlicht“ – auch nach dem Anlegen einer Schulung. Entwürfe bleiben so beim Anlegen oder Bearbeiten mehrerer Schulungen sichtbar. Für alle anderen Rollen bleibt „Veröffentlicht“ die Voreinstellung.
+
+## v1.1.6 – 2026-10-11
+
+### Neue Funktionen
+- Meldet sich ein Mitarbeiter von einer Schulung oder Veranstaltung ab, erhalten der Trainer bzw. Verantwortliche, die Manager und die Administratoren eine **E-Mail**.
+- Wird Datum, Uhrzeit oder Ort einer veröffentlichten Veranstaltung geändert, erhalten die angemeldeten Teilnehmer eine **E-Mail zur Terminänderung**.
+- Ein persönlicher Anmeldelink **aktiviert eine zuvor abgemeldete Anmeldung wieder**.
+### Verbesserungen
+- Im Kalender wird jetzt auch vor dem **Abmelden von einer Veranstaltung** nachgefragt.
+- **Schicht-Entwürfe** sehen nur noch Administratoren und Manager.
+- Administratoren können ihr **eigenes Mitarbeiterprofil nicht mehr archivieren** und ihre **eigene Administratorrolle nicht mehr entfernen** – so sperrt sich niemand versehentlich aus.
+### Datenschutz
+- Suchbegriffe der globalen Suche werden nicht mehr in der Adresszeile der Anfrage übertragen.
+
 ## v1.1.5 – 2026-10-11
 
 ### Neue Funktionen
