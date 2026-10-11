@@ -2,6 +2,12 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.5 – 2026-10-11
+
+### Neue Funktionen
+- Administratoren können für einzelne oder mehrere Mitarbeiter eine erneute **Datenprüfung anfordern**: Die Person prüft und bestätigt ihre Daten beim nächsten Aufruf – genau wie bei der ersten Anmeldung. Die Anforderung lässt sich auch wieder zurücknehmen.
+- Schulungs-Vorlagen haben jetzt ein optionales Feld **Max. Teilnehmer**. Neue Schulungen aus der Vorlage übernehmen den Wert; er bleibt änderbar.
+
 ## v1.1.4 – 2026-10-11
 
 ### Highlights
