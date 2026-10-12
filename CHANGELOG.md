@@ -2,6 +2,18 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.9 – 2026-10-12
+
+### Neue Funktionen
+- **Massenaktionen für Schulungen:** Administratoren und Manager können in der Schulungsliste mehrere Schulungen auswählen und gesammelt veröffentlichen, Trainer und Ort setzen oder Entwürfe löschen.
+- **Mehrere Teilnehmer hinzufügen:** Administratoren und Manager melden auf der Detailseite einer veröffentlichten Schulung mehrere Mitarbeiter auf einmal an – direkt genehmigt, mit Bestätigungs-E-Mail.
+- **Alle Anfragen genehmigen:** Administratoren, Manager und Trainer genehmigen auf der Detailseite einer Schulung alle offenen Anfragen auf einmal – in der Reihenfolge des Eingangs und nur, solange Plätze frei sind.
+### Verbesserungen
+- **Sortierung nach Datum und Uhrzeit:** Die Schulungsliste zeigt zuerst die kommenden Schulungen (nach Datum und Uhrzeit), dann die vergangenen. Kalender, Schichtkalender und die Schichtlisten im Dashboard sind nach Uhrzeit sortiert – ein Termin um 07:00 Uhr steht vor einem um 16:00 Uhr.
+- **Dashboard-Zähler:** Das Dashboard für Mitarbeiter, Trainer und Betrachter zeigt die Anzahl der veröffentlichten, kommenden Schulungen und Veranstaltungen – jeweils mit einem Link „Alle anzeigen“.
+- **Plausible Geburtsdaten:** Geburtsdaten werden nur noch gespeichert, wenn sie plausibel sind (Alter zwischen 14 und 100 Jahren) – auch beim Import.
+- Auch beim gesammelten Hinzufügen und Genehmigen gilt die Regel gegen Doppelbuchungen: Wer bereits für einen anderen Termin derselben Schulung angemeldet ist oder zeitgleich einen anderen Termin hat, wird nicht hinzugefügt und in der Ergebnisliste mit dem Grund aufgeführt.
+
 ## v1.1.8 – 2026-10-11
 
 ### Highlights
