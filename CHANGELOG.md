@@ -2,6 +2,13 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.10 – 2026-10-12
+
+### Highlights
+- **Ansicht als Benutzer** für Administratoren
+### Neue Funktionen
+- **Ansicht als Benutzer:** Administratoren können die Anwendung bis zu 30 Minuten lang so ansehen, wie ein Mitarbeiter, Manager, Trainer oder Betrachter ihres Mandanten sie sieht – zum Beispiel, um Fragen zum Kalender oder zu Berechtigungen zu beantworten, ohne ein Passwort zu kennen. Die Ansicht ist nur lesend: Speichern, Anmelden, Freigeben, Hochladen, Passwort ändern und E-Mails versenden sind nicht möglich. Ein gut sichtbares Hinweisband zeigt, wessen Ansicht gerade läuft und wann sie endet; „Beenden“ führt zurück. Die Person wird nicht benachrichtigt, ihre eigenen Anmeldungen bleiben unberührt; Beginn und Ende werden protokolliert.
+
 ## v1.1.9 – 2026-10-12
 
 ### Neue Funktionen
