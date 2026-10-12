@@ -2,6 +2,12 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.11 – 2026-10-12
+
+### Neue Funktionen
+- **Meine Termine:** „Alle anzeigen" im Dashboard öffnet jetzt eine Liste aller eigenen Anmeldungen zu Schulungen und Veranstaltungen – anstehende zuerst, mit Status, Filter (Anstehend, Vergangen, Alle) und Abmeldung nach den bekannten Fristen. Die Seite ist auch direkt im Menü erreichbar.
+- **Schulungsübersicht:** Administratoren, Manager und Trainer sehen unter „Schulungen" alle Schulungen gruppiert nach Vorlage – mit Datum, Ort, Trainer, Auslastung, offenen Anfragen und Teilnehmern – und können Anfragen direkt genehmigen oder ablehnen oder alle Anfragen einer Schulung auf einmal genehmigen. Es gelten dieselben Regeln wie auf der Schulungsseite (keine Doppelbuchungen, Bestätigungs-E-Mail).
+
 ## v1.1.10 – 2026-10-12
 
 ### Highlights
