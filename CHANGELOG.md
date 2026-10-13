@@ -2,6 +2,14 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.13 – 2026-10-13
+
+### Neu
+- **Teilnehmer entfernen:** Administratoren und Manager können angefragte oder genehmigte Teilnehmer bis zum Beginn aus einer Schulung oder Veranstaltung entfernen – einzeln oder mehrere auf einmal, auch in der Schulungsübersicht. Die Anmeldung erhält den Status „Entfernt", der Platz wird frei. Auf Wunsch erhält die Person eine E-Mail (Vorlage anpassbar), optional mit Grund. Entfernte Personen können später wieder hinzugefügt werden oder sich erneut anmelden.
+
+### Verbesserungen
+- **Benachrichtigung senden:** Die Antwort kommt jetzt sofort, auch bei vielen Empfängern; die Mails werden im Hintergrund erstellt. Wer die Benachrichtigung zwischen Senden und Erstellen abbestellt, erhält keine Mail.
+
 ## v1.1.12 – 2026-10-13
 
 ### Verbesserungen
