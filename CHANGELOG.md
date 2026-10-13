@@ -2,6 +2,11 @@
 
 Öffentliches Änderungsprotokoll der Winterdienst-Plattform. Neueste Version zuerst.
 
+## v1.1.12 – 2026-10-13
+
+### Verbesserungen
+- **Benachrichtigungen bei großen Veranstaltungen:** Absagen, Terminänderungen, Abmeldungen sowie „Teilnehmer hinzufügen" und „Alle Anfragen genehmigen" werden jetzt sofort gespeichert; die zugehörigen E-Mails werden wenige Sekunden später im Hintergrund erstellt und versendet. Die Aktion bleibt dadurch auch bei sehr vielen Teilnehmern schnell und zuverlässig.
+
 ## v1.1.11 – 2026-10-12
 
 ### Neue Funktionen
